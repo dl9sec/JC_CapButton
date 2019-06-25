@@ -2,9 +2,9 @@
 https://github.com/dl9sec/JC_CapButton  
 
 ## License
-Arduino ESP-32 CapButton Library Copyright (C) 2019 Thorsten Godau (dl9sec) GNU GPL v3.0
+Arduino ESP-32 CapButton Library Copyright (C) 2019 Thorsten Godau (dl9sec) GNU GPL v3.0.
 
-Based upon Arduino Button Library Copyright (C) 2018-2019 Jack Christensen GNU GPL v3.0
+Based upon Arduino Button Library Copyright (C) 2018-2019 Jack Christensen GNU GPL v3.0 (see https://github.com/JChristensen/JC_Button).
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License v3.0 as published by the Free Software Foundation.
 
