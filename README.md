@@ -1,6 +1,8 @@
 # Arduino ESP-32 CapButton Library
 https://github.com/dl9sec/JC_CapButton  
 
+![alt ESP-32 JC_CapButton Demo](https://github.com/dl9sec/JC_CapButton/raw/master/demovideo/ESP-32_JC_CapButton_Demo.png)
+
 ## License
 Arduino ESP-32 CapButton Library Copyright (C) 2019 Thorsten Godau (dl9sec) GNU GPL v3.0.
 
@@ -21,8 +23,6 @@ The Button class constructor takes four arguments, but three have default values
 A derived class, ToggleCapButton, implements button objects that need only "push-on, push-off" functionality.
 
 Tested on an AZ-Delivery ESP-32 DevKitC.
-
-[![Watch the video](https://github.com/dl9sec/JC_CapButton/blob/master/demovideo/ESP-32_JC_CapButton_Demo.png?raw=true)](https://github.com/dl9sec/JC_CapButton/blob/master/demovideo/ESP-32_JC_CapButton_Demo.mp4?raw=true)
 
 ## Examples
 The following example sketches are included with the **CapButton** library:
