@@ -22,6 +22,8 @@ A derived class, ToggleCapButton, implements button objects that need only "push
 
 Tested on an AZ-Delivery ESP-32 DevKitC.
 
+[![Watch the video](https://github.com/dl9sec/JC_CapButton/demovideo/ESP-32_JC_CapButton_Demo.png)](https://github.com/dl9sec/JC_CapButton/demovideo/ESP-32_JC_CapButton_Demo.mp4)
+
 ## Examples
 The following example sketches are included with the **CapButton** library:
 
